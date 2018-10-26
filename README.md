@@ -1,6 +1,6 @@
 # PROYECTO TERCIO 2 AREM Currency Converter 
 
-servidor Web (tipo Apache) en Java. Servidor capaz de entregar páginas html e imágenes tipo PNG atendiendo múltiples solicitudes no concurrentes.
+Aplicación para la consulta y búsqueda de tasas de cambio y para la conversión de monedas. 
 
 ## Link del Articulo del proyecto
 
