@@ -1,0 +1,99 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+
+
+  
+}
+body {
+  /* Margin bottom by footer height */
+  
+  background-color: #ffffff;
+  margin:auto;
+
+  
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #3B0B0B;
+  color: #ffffff;
+  
+}
+
+
+body {margin: 0;}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    background-color: #333;
+    margin:auto;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    position: relative;
+    text-decoration: none;
+
+}
+
+.centrarCaja {
+    position:relative;
+    left:40%;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 60px 15px 0;
+  color: #ffffff;
+  background-color: #0B0B61;
+  margin:auto;
+}
+.container .text-muted {
+  margin: 20px 0;
+  color: #ffffff;
+  margin:auto;
+
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #222;
+  margin:auto;
+
+}
+
+code {
+  font-size: 80%;
+  color: #ffffff;
+}
