@@ -29,40 +29,13 @@ git clone https://github.com/vashigo/PROYECTO1-AREM.git
 
 ### Prerequisitos
 
-Tener instalado Java jdk versiones 7+, Maven comandos y git
+tener navegador
 
-### Instalando
-
-1. Ejecutar en terminal:
-
-```
-$$ mvn package
-```
-2.(opcional):
-si requiere la documetacion del codigo
-
-```
-mvn javadoc:javadoc
-```
-### Ejecutando
+### Ejecutando localmente
 
 2. (Demostracion):
-  compile el proyecto en terminal desde la carpeta raiz ejecutando la siguiente linea:
+  abra el proyecto y busque el archivo index.html solament abralo desde su navegador preferido y listo:
   
-```
-
-java -jar target/currency-conversion-0.0.1-SNAPSHOT.jar
-
-```
-
-3. (server):
-una vez compilado el programa se ejecuta en el puerto 8080,para probarlo vaya a esta direccion desde su navegador:
-
-```
-http://localhost:8080
-  
-```
-
 
 ## Autor
 
