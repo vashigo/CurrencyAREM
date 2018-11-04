@@ -2,7 +2,7 @@
 
 Aplicación para la consulta y búsqueda de tasas de cambio y para la conversión de monedas. 
 
-## Link del aplicatico funcional montado en AMAZON s3
+## Link del aplicativo funcional montado en AMAZON s3
 
 [Link App AWS S3](http://currencyconvertarem.s3-website-us-west-2.amazonaws.com/)
 
