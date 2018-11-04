@@ -1,6 +1,6 @@
 function getList()
 {
-    var url = "https://dyj5jc22ce.execute-api.us-west-2.amazonaws.com/prod/money"
+    var url = "https://d8yq6vhq43.execute-api.us-east-2.amazonaws.com/prod/mysecondresource"
 
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open("GET", url, false); // false for synchronous request
@@ -21,7 +21,7 @@ function getList()
 }
 function getvalues()
 {
-    var url = "https://dyj5jc22ce.execute-api.us-west-2.amazonaws.com/prod/money"
+    var url = "https://d8yq6vhq43.execute-api.us-east-2.amazonaws.com/prod/mysecondresource"
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open("GET", url, false); // false for synchronous request
     xmlHttp.send(null);
