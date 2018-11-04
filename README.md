@@ -13,11 +13,10 @@ Aplicación para la consulta y búsqueda de tasas de cambio y para la conversió
 
 ## Software Used
 
-    -Spring Boot 1.5.9.RELEASE
-    -Java 8
-    -Currency Conversion API by currencylayer (https://currencylayer.com/)
-    -Maven
-    -HTML
+    -Java y JS
+    -HTML 5 / CSS
+    -Bootstrap (Page Responsive)
+    -Amazon Web Services AWS (Funciones Lambda, API Gateway) para la ruta final del usuario
 
 
 ## EMPEZAR
