@@ -10,6 +10,10 @@ Aplicación para la consulta y búsqueda de tasas de cambio y para la conversió
 
 [Link Articulo](https://drive.google.com/file/d/1xJQrIGzxCvEgKT1WywZ4KVCSRpClu2Ws/view?usp=sharing)
 
+## Link del Video Tutorial
+
+[Link Video Tutorial Diseño y Funcionalidad](https://youtu.be/UAMxgFdIX5s)
+
 
 ## Software Used
 
