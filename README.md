@@ -8,7 +8,7 @@ Aplicación para la consulta y búsqueda de tasas de cambio y para la conversió
 
 ## Link del Articulo del proyecto
 
-[Link Articulo](https://drive.google.com/file/d/1xJQrIGzxCvEgKT1WywZ4KVCSRpClu2Ws/view?usp=sharing)
+[Link Articulo](https://drive.google.com/file/d/1FiF32TPSo_9cc50seC3cO2fTQv3RJ-lZ/view?usp=sharing)
 
 ## Link del Video Tutorial
 
